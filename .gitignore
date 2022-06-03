@@ -7,3 +7,5 @@ __pycache__/
 node_modules/
 .github/
 cloudinary_python.txt
+templates_copy_old_2/
+templates_copy_old_1/
